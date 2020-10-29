@@ -1,0 +1,6 @@
+framework module PlayerMedia {
+  umbrella header "PlayerMedia-umbrella.h"
+
+  export *
+  module * { export * }
+}

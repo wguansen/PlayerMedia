@@ -1,0 +1,16 @@
+PODS:
+  - PlayerMedia (0.1.0)
+
+DEPENDENCIES:
+  - PlayerMedia (from `../`)
+
+EXTERNAL SOURCES:
+  PlayerMedia:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PlayerMedia: f47bf2af99724ca0eaab90263a6b3f7e9d9db921
+
+PODFILE CHECKSUM: 71f1b080b18c43a427fced814bbf914a478b0bd7
+
+COCOAPODS: 1.9.3
