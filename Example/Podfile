@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PlayerMedia_Tests' do
+  pod 'PlayerMedia', :path => '../'
+  
+  
+end
